@@ -1,0 +1,12 @@
+{
+  "name": "solo-builder-playbook",
+  "description": "Growth playbooks from 19 founders who built apps to $10K-$200K+ MRR. Real tactics, real numbers, no theory.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Drew Thomas",
+    "url": "https://x.com/drewautomates"
+  },
+  "homepage": "https://drewautomates.com",
+  "repository": "https://github.com/drewautomates/solo-builder-playbook-skill",
+  "license": "MIT"
+}
